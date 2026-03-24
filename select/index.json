@@ -1,0 +1,72 @@
+{
+  "version": 1,
+  "base_track": "They Don't Care About Us (Remastered Version)",
+  "base_artist": "Michael Jackson",
+  "createdAt": "2026-03-24T12:44:38.310396Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "They Don't Care About Us (Remastered Version)",
+      "artist": "Michael Jackson",
+      "has_synced": true,
+      "path": "select/01_They_Don't_Care_About_Us_(Remastered_Version)_Michael_Jackson.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "They Don't Care About Us (Remastered Version)",
+      "artist": "Michael Jackson",
+      "has_synced": true,
+      "path": "select/02_They_Don't_Care_About_Us_(Remastered_Version)_Michael_Jackson.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "They Don't Care About Us (Remastered Version)",
+      "artist": "Song, Michael Jackson",
+      "has_synced": true,
+      "path": "select/03_They_Don't_Care_About_Us_(Remastered_Version)_Song,_Michael_Jackson.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "They Don't Care About Us (Remastered Version)",
+      "artist": "Michael Jackson",
+      "has_synced": true,
+      "path": "select/04_They_Don't_Care_About_Us_(Remastered_Version)_Michael_Jackson.lrc"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "They Don't Care About Us (Remastered Version)",
+      "artist": "Michael Jackson",
+      "has_synced": true,
+      "path": "select/05_They_Don't_Care_About_Us_(Remastered_Version)_Michael_Jackson.lrc"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "They Don't Care About Us - Remastered Version",
+      "artist": "Michael Jackson",
+      "has_synced": true,
+      "path": "select/06_They_Don't_Care_About_Us_-_Remastered_Version_Michael_Jackson.lrc"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "They Don't Care About Us (Remastered)",
+      "artist": "Michael Jackson",
+      "has_synced": true,
+      "path": "select/07_They_Don't_Care_About_Us_(Remastered)_Michael_Jackson.lrc"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "They Don't Care About Us (Remastered Version)",
+      "artist": "Michael Jackson;Brad Buxer;Michael Boddicker;Steve Porcaro;Annette Sanders;Maxi Anderson;Alan Shearman;Anna Mathias;Gregory Martin;Dawn McMillan;Phillip G. Proctor;Susan Silo;Jesse Corti;Hattie Winston;Maurice La Marche;Rodger Bumpass;Emily Bernstein;Geoff Grace;Kimberly Johnson;Crystal Pounds;Rhonda Hoskins;Crystal Grant;Caleena Campbell;Nikisha Grier;Chauna Bryant;Jania Foxworth;Crystal Jackson;Kandy Johnson;Charity Young;Angela Fisher;Coy Mattison",
+      "has_synced": true,
+      "path": "select/08_They_Don't_Care_About_Us_(Remastered_Version)_Michael_Jackson;Brad_Buxer;Michael_Boddicker;Steve_Porcaro;Annette_Sanders;Maxi_.lrc"
+    }
+  ]
+}
